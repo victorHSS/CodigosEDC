@@ -7,7 +7,7 @@ int main() {
     printf("Entre com uma string: ");
     gets(str);
 
-    printf("%s\n");    
+    printf("%s\n",str);    
     
     return 0;
 }
